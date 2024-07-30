@@ -1,0 +1,16 @@
+{
+	"name": "com.e7works.unity.package",
+	"version": "1.0.0",
+	"displayName": "VChatCloudUnitySDK",
+	"description": "VChatCloudUnitySDK",
+	"unity": "2022.3",
+	"author": {
+		"name": "ace8",
+		"email": "ace8@e7works.com",
+		"url": "https://vchatcloud.com/"
+	},
+	"dependencies": {
+		"com.unity.nuget.newtonsoft-json": "3.2.1"
+	}
+	,"//com.pimdewitte.unitymainthreaddispatcher": "https://github.com/PimDeWitte/UnityMainThreadDispatcher#1.0.0"
+}

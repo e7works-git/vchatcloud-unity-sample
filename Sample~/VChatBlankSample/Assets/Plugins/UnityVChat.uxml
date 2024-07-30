@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement class="root">
+        <ui:TextField name="chatInput" placeholder="Type a message..." style="position: absolute; bottom: -512px; left: -1px; height: 44px; width: 265px;" />
+        <ui:Button name="sendButton" text="Send" style="bottom: -510px; top: initial; position: absolute; left: 272px; height: 42px; width: 67px;" />
+        <ui:ScrollView name="chatScrollView" style="position: absolute; left: 0; top: 0; height: 458px; width: 342px;" />
+    </ui:VisualElement>
+</ui:UXML>
